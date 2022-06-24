@@ -5,5 +5,9 @@
 
 .form-field {
   display: block;
-  padding: 0 0 10px;
+  margin: 0 0 10px;
+}
+
+.form-field-radio {
+  margin: 0 0 10px;
 }
